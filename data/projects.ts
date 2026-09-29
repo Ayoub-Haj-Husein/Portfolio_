@@ -26,18 +26,20 @@ export const projects: Project[] = [
     github: "https://github.com/Ayoub-Haj-Husein/Agri_Adventure",
   },
 
-  {
-    id: 2,
-    title: "Developer Portfolio",
-    description:
-      "A responsive developer portfolio built with Next.js and TypeScript to showcase projects, technical skills, experience, and certifications.",
-    technologies: [
-      "React",
-      "TypeScript",
-      "Next.js",
-      "Tailwind CSS",
-    ],
-    image: "/projects/portfolio.png",
+{
+  id: 2,
+  title: "Developer Portfolio",
+  description:
+    "A responsive developer portfolio built with Next.js and TypeScript to showcase projects, technical skills, experience, and certifications.",
+  technologies: [
+    "React",
+    "TypeScript",
+    "Next.js",
+    "Tailwind CSS",
+  ],
+  image: "/projects/portfolio.png",
+  github: "https://github.com/Ayoub-Haj-Husein/Portfolio_",
+  demo: "https://portfolio-eta-amber-23.vercel.app",
   },
 
   {
